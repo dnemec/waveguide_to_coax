@@ -4,10 +4,11 @@
 This script automates the waveguide to coax adapter design.  
 If you choose high resolution for optimization, it might take some tome.  
 Usually 100 combinations is enough to get good results, more than that might take a long time to finish.  
-  
+
+## Sources
 All calculations are derived from:  
-'Pozar, D. M. (2011). Microwave engineering. John Wiley & Sons.'  
-'Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.'  
+**Pozar, D. M. (2011). Microwave engineering. John Wiley & Sons.  
+Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.**  
   
 ## Inputs
 * Number of feed length - feed offset combinations
