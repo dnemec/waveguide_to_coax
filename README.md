@@ -22,19 +22,19 @@ All calculations are derived from:
 ## Outputs
 
 ### Textual output of optimized parameters and resulting performance  
-![Output](https://github.com/dnemec/waveguide_to_coax/blob/master/Images/Output.png?raw=true)
+![Output](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/blob/master/Images/Output.png?raw=true)
   
 ### Phase analysis, a visualisation of TExx propagation modes
-![Phase](https://github.com/dnemec/waveguide_to_coax/blob/master/Images/Phase.png?raw=true)
+![Phase](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/blob/master/Images/Phase.png?raw=true)
   
 ### Attenuation analysis
-![Attenuation](https://github.com/dnemec/waveguide_to_coax/blob/master/Images/Attenuation.png?raw=true)
+![Attenuation](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/blob/master/Images/Attenuation.png?raw=true)
   
 ### VSWR
-![VSWR](https://github.com/dnemec/waveguide_to_coax/blob/master/Images/VSWR.png?raw=true)
+![VSWR](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/blob/master/Images/VSWR.png?raw=true)
   
 ### Return loss
-![RL](https://github.com/dnemec/waveguide_to_coax/blob/master/Images/Returnloss.png?raw=true)
+![RL](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/blob/master/Images/Returnloss.png?raw=true)
   
 ### Waveguide visualization
-![WG](https://github.com/dnemec/waveguide_to_coax/blob/master/Images/Waveguide.png?raw=true)
+![WG](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/blob/master/Images/Waveguide.png?raw=true)
