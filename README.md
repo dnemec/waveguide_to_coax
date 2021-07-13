@@ -22,7 +22,7 @@ All calculations are derived from:
 ## Outputs
 
 ### Textual output of optimized parameters and resulting performance  
-![Output](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/main/Images/Output.png?raw=true)
+![Output](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/main/Images/Output.PNG?raw=true)
   
 ### Phase analysis, a visualisation of TExx propagation modes
 ![Phase](https://raw.githubusercontent.com/dnemec/waveguide_to_coax/main/Images/Phase.png?raw=true)
