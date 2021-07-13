@@ -95,6 +95,7 @@ xlabel('\bf Frequency [Hz]','FontSize',16)
 ylabel('\bf \beta [rad/m]','FontSize',16) 
 legend();
 grid on
+pause(5);
 
 %ATTENUATION ANALYSIS
 sigma = linspace(1e7, 7e7, 1000); %Conductivity range of common metals
@@ -112,6 +113,7 @@ title('Attenuation','FontSize',16)
 xlabel('\bf Conductivity, \sigma [S/m]','FontSize',16) 
 ylabel('\bf \alpha [dB/m]','FontSize',16)
 grid on
+pause(5);
 
 %PINFEED OPTIMIZATION PARAMETERS
 height = b;
