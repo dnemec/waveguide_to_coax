@@ -5,7 +5,7 @@ This script automates the waveguide to coax adapter design.
 It is designed to create and optimize waveguide in a **TE10** propagation mode.  
   
 If you choose high resolution for optimization, it might take some time to process.  
-Usually 100 combinations is enough to get good results, more than that might take a long time to finish.  
+Usually 100 combinations is more than enough to get good results, more than that might take a long time to finish.  
 
 ## Sources
 All calculations are derived from:  
