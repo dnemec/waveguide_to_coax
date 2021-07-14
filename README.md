@@ -3,6 +3,7 @@
 ## Description
 This script automates the waveguide to coax adapter design.  
 It is designed to create and optimize waveguide in a **TE10** propagation mode.  
+  
 If you choose high resolution for optimization, it might take some time to process.  
 Usually 100 combinations is enough to get good results, more than that might take a long time to finish.  
 
@@ -12,7 +13,7 @@ All calculations are derived from:
 Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.**  
   
 ## Inputs
-* Number of feed length - feed offset combinations
+* Number of combinations - feed length and feed offset combinations
   Usually around 50-100.
 
 * Feedwidth - diameter of a pinfeed monopole antenna conductor
