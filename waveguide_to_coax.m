@@ -50,11 +50,13 @@ a = 3 / (4 * fc * sqrt(u * e));
 b = (a / 2) - 0.6e-3;
 
 lambda_g = (2 * pi) / (sqrt( (omega * sqrt(u * e))^2 - (pi / a)^2));
+length = lambda_g / 2;
 
 fprintf('\n');
 fprintf('Waveguide dimensions');
 fprintf('\na = %d m', a);
 fprintf('\nb = %d m', b);
+fprintf('\nlength = %d m', length);
 fprintf('\n');
 fprintf('\n');
 
