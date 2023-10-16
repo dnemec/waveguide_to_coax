@@ -13,14 +13,14 @@ All calculations are derived from:
 Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.**  
   
 ## Inputs
-* **Number of combinations** - feed length and feed offset combinations
+* **Number of combinations** - feed length and feed offset combinations  
 *Around 100 is more than enough, approximate it accordingly in regards to the manufacturing precision that you are able to achieve.*  
 
-* **Feedwidth** - diameter of a pinfeed monopole antenna conductor (probe) 
-*Usually in a milimeter range.*
+* **Feedwidth** - diameter of a pinfeed monopole antenna conductor (probe)  
+*Usually in a milimeter range.*  
 *Larger diameters (thicker probe) usually results in a wider bandwidth.*
 
-* **Central frequency** - Central frequency for which the adapter will be designed and optimized
+* **Central frequency** - Central frequency for which the adapter will be designed and optimized  
 
 ## Outputs
 
