@@ -18,7 +18,7 @@ Wade, P. (2006). Rectangular Waveguide to Coax Transition Design. W1GHZ.**
 
 * **Feedwidth** - diameter of a pinfeed monopole antenna conductor (probe)  
 *Usually in a milimeter range.*  
-*Larger diameters (thicker probe) usually results in a wider bandwidth.*
+*Larger diameter (thicker probe) usually results in a wider bandwidth.*
 
 * **Central frequency** - Central frequency for which the adapter will be designed and optimized  
 
